@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: gray;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 30px;
+}
