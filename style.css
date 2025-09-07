@@ -1,10 +1,22 @@
-body {
-  background-color: lightblue;
+svg {
+
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.home-icon {
+  color: gray;
 }
 
 h1 {
   color: gray;
   text-align: center;
+  margin: 0;
 }
 
 p {
